@@ -1,1 +1,0 @@
-No Content: https://ubg365.github.io/mad-truck-challenge-special/fix.js
